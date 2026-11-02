@@ -1,0 +1,9 @@
+JEE OS 4.2.0
+Curriculum: jeeos-2026-10-29-v1
+Plan start: configurable (default 2026-10-29)
+Daily plan: configurable 1–4 lectures per subject, configurable PCM subject order
+Study days: every day by default, with optional user-selected rest days
+Appearance: dark/light/system theme, 5 accent colors, compact/comfortable/spacious density, 3 text sizes
+Test system: removed from navigation, planning, dashboard, settings, and calendar
+Revision framework: retained
+Data: local-first backup/import and Supabase cloud snapshot sync
